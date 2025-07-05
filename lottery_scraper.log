@@ -1,0 +1,220 @@
+[2025-07-04T15:25:32.862Z] [lottery] 🌟 Starting lottery data scheduler...
+[2025-07-04T15:25:32.864Z] [lottery] ❌ Error loading existing data: Unexpected end of JSON input
+[2025-07-04T15:25:32.864Z] [lottery] 🚀 Starting lottery checking cycle...
+[2025-07-04T15:25:32.865Z] [lottery] 🔄 Extraction attempt 1/3
+[2025-07-04T15:25:32.865Z] [lottery] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T15:25:33.320Z] [lottery] 🎯 Successfully extracted lottery data for 2025-07-04T15:25:33.320Z
+[2025-07-04T15:25:33.321Z] [lottery] 🆕 Added 1 new lottery records:
+[2025-07-04T15:25:33.322Z] [lottery]    + 2025-07-04T15:25:33.320Z: First Prize 949246
+[2025-07-04T15:25:33.324Z] [lottery] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T15:25:33.325Z] [lottery] ✅ Data updated with 1 changes
+[2025-07-04T15:25:33.347Z] [lottery] ⏰ Next run scheduled in 14 minutes (at 10:39:36 PM)
+[2025-07-04T15:25:33.325Z] [lottery] ✅ Lottery checking cycle completed successfully
+[2025-07-04T15:25:33.347Z] [lottery] ✅ Scheduler started successfully
+[2025-07-04T15:33:46.554Z] 🌟 Starting lottery data scheduler...
+[2025-07-04T15:33:46.556Z] 📂 Loaded 1 existing lottery records
+[2025-07-04T15:33:46.557Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T15:33:46.557Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T15:33:46.557Z] 🔄 Extraction attempt 1/3
+[2025-07-04T15:33:47.012Z] 🎯 Successfully extracted lottery data for 2025-07-04T15:33:47.012Z
+[2025-07-04T15:33:47.013Z]    + 2025-07-04T15:33:47.012Z: First Prize 949246
+[2025-07-04T15:33:47.013Z] 🆕 Added 1 new lottery records:
+[2025-07-04T15:33:47.014Z]    - 2025-07-04T15:25:33.320Z: 949246
+[2025-07-04T15:33:47.014Z] ❌ Removed 1 lottery records:
+[2025-07-04T15:33:47.016Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T15:33:47.017Z] ✅ Data updated with 2 changes
+[2025-07-04T15:33:47.017Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T15:33:47.034Z] ⏰ Next run scheduled in 13 minutes (at 10:47:09 PM)
+[2025-07-04T15:33:47.035Z] ✅ Scheduler started successfully
+[2025-07-04T15:47:09.183Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T15:47:09.185Z] 🔄 Extraction attempt 1/3
+[2025-07-04T15:47:09.189Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T15:47:09.588Z] 🎯 Successfully extracted lottery data for 2025-07-04T15:47:09.588Z
+[2025-07-04T15:47:09.589Z] 🆕 Added 1 new lottery records:
+[2025-07-04T15:47:09.589Z]    + 2025-07-04T15:47:09.588Z: First Prize 949246
+[2025-07-04T15:47:09.589Z] ❌ Removed 1 lottery records:
+[2025-07-04T15:47:09.589Z]    - 2025-07-04T15:33:47.012Z: 949246
+[2025-07-04T15:47:09.590Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T15:47:09.591Z] ✅ Data updated with 2 changes
+[2025-07-04T15:47:09.591Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T15:47:09.591Z] ⏰ Next run scheduled in 12 minutes (at 10:59:17 PM)
+[2025-07-04T15:59:17.482Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T15:59:17.482Z] 🔄 Extraction attempt 1/3
+[2025-07-04T15:59:17.483Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T15:59:18.078Z] 🎯 Successfully extracted lottery data for 2025-07-04T15:59:18.078Z
+[2025-07-04T15:59:18.079Z] 🆕 Added 1 new lottery records:
+[2025-07-04T15:59:18.080Z]    + 2025-07-04T15:59:18.078Z: First Prize 949246
+[2025-07-04T15:59:18.080Z] ❌ Removed 1 lottery records:
+[2025-07-04T15:59:18.081Z]    - 2025-07-04T15:47:09.588Z: 949246
+[2025-07-04T15:59:18.082Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T15:59:18.083Z] ✅ Data updated with 2 changes
+[2025-07-04T15:59:18.084Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T15:59:18.084Z] ⏰ Next run scheduled in 12 minutes (at 11:11:14 PM)
+[2025-07-04T16:11:14.687Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T16:11:14.688Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:11:14.690Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T16:11:15.082Z] 🎯 Successfully extracted lottery data for 2025-07-04T16:11:15.082Z
+[2025-07-04T16:11:15.082Z] 🆕 Added 1 new lottery records:
+[2025-07-04T16:11:15.084Z]    + 2025-07-04T16:11:15.082Z: First Prize 949246
+[2025-07-04T16:11:15.085Z] ❌ Removed 1 lottery records:
+[2025-07-04T16:11:15.087Z]    - 2025-07-04T15:59:18.078Z: 949246
+[2025-07-04T16:11:15.089Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T16:11:15.089Z] ✅ Data updated with 2 changes
+[2025-07-04T16:11:15.090Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T16:11:15.090Z] ⏰ Next run scheduled in 13 minutes (at 11:24:15 PM)
+[2025-07-04T16:24:15.547Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T16:24:15.548Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:24:15.550Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T16:24:16.053Z] 🎯 Successfully extracted lottery data for 2025-07-04T16:24:16.053Z
+[2025-07-04T16:24:16.054Z] 🆕 Added 1 new lottery records:
+[2025-07-04T16:24:16.056Z]    + 2025-07-04T16:24:16.053Z: First Prize 949246
+[2025-07-04T16:24:16.057Z] ❌ Removed 1 lottery records:
+[2025-07-04T16:24:16.057Z]    - 2025-07-04T16:11:15.082Z: 949246
+[2025-07-04T16:24:16.060Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T16:24:16.061Z] ✅ Data updated with 2 changes
+[2025-07-04T16:24:16.061Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T16:24:16.062Z] ⏰ Next run scheduled in 11 minutes (at 11:35:24 PM)
+[2025-07-04T16:35:24.124Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T16:35:24.125Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:35:24.127Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T16:35:24.556Z] 🎯 Successfully extracted lottery data for 2025-07-04T16:35:24.556Z
+[2025-07-04T16:35:24.557Z] 🆕 Added 1 new lottery records:
+[2025-07-04T16:35:24.559Z]    + 2025-07-04T16:35:24.556Z: First Prize 949246
+[2025-07-04T16:35:24.560Z] ❌ Removed 1 lottery records:
+[2025-07-04T16:35:24.561Z]    - 2025-07-04T16:24:16.053Z: 949246
+[2025-07-04T16:35:24.564Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T16:35:24.565Z] ✅ Data updated with 2 changes
+[2025-07-04T16:35:24.566Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T16:35:24.566Z] ⏰ Next run scheduled in 14 minutes (at 11:49:14 PM)
+[2025-07-04T16:49:14.085Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T16:49:14.085Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:49:14.086Z] 🌐 Fetching latest lottery data for 04072568...
+[2025-07-04T16:49:14.632Z] 🎯 Successfully extracted lottery data for 2025-07-04T16:49:14.632Z
+[2025-07-04T16:49:14.633Z] 🆕 Added 1 new lottery records:
+[2025-07-04T16:49:14.633Z]    + 2025-07-04T16:49:14.632Z: First Prize 949246
+[2025-07-04T16:49:14.634Z] ❌ Removed 1 lottery records:
+[2025-07-04T16:49:14.634Z]    - 2025-07-04T16:35:24.556Z: 949246
+[2025-07-04T16:49:14.635Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T16:49:14.636Z] ✅ Data updated with 2 changes
+[2025-07-04T16:49:14.636Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T16:49:14.636Z] ⏰ Next run scheduled in 14 minutes (at 12:03:38 AM)
+[2025-07-04T17:03:38.360Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T17:03:38.362Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:03:38.363Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T17:03:38.926Z] 🎯 Successfully extracted lottery data for 2025-07-04T17:03:38.926Z
+[2025-07-04T17:03:38.928Z]    + 2025-07-04T17:03:38.926Z: First Prize 949246
+[2025-07-04T17:03:38.927Z] 🆕 Added 1 new lottery records:
+[2025-07-04T17:03:38.928Z]    - 2025-07-04T16:49:14.632Z: 949246
+[2025-07-04T17:03:38.928Z] ❌ Removed 1 lottery records:
+[2025-07-04T17:03:38.929Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T17:03:38.929Z] ✅ Data updated with 2 changes
+[2025-07-04T17:03:38.929Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T17:03:38.929Z] ⏰ Next run scheduled in 11 minutes (at 12:14:30 AM)
+[2025-07-04T17:14:30.838Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T17:14:30.839Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:14:30.840Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T17:14:31.523Z] 🎯 Successfully extracted lottery data for 2025-07-04T17:14:31.523Z
+[2025-07-04T17:14:31.524Z] 🆕 Added 1 new lottery records:
+[2025-07-04T17:14:31.525Z]    + 2025-07-04T17:14:31.523Z: First Prize 949246
+[2025-07-04T17:14:31.527Z]    - 2025-07-04T17:03:38.926Z: 949246
+[2025-07-04T17:14:31.526Z] ❌ Removed 1 lottery records:
+[2025-07-04T17:14:31.528Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T17:14:31.528Z] ✅ Data updated with 2 changes
+[2025-07-04T17:14:31.528Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T17:14:31.528Z] ⏰ Next run scheduled in 15 minutes (at 12:29:29 AM)
+[2025-07-04T17:29:29.218Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T17:29:29.218Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:29:29.222Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T17:29:29.580Z] 🎯 Successfully extracted lottery data for 2025-07-04T17:29:29.580Z
+[2025-07-04T17:29:29.582Z]    + 2025-07-04T17:29:29.580Z: First Prize 949246
+[2025-07-04T17:29:29.582Z] ❌ Removed 1 lottery records:
+[2025-07-04T17:29:29.581Z] 🆕 Added 1 new lottery records:
+[2025-07-04T17:29:29.583Z]    - 2025-07-04T17:14:31.523Z: 949246
+[2025-07-04T17:29:29.584Z] ✅ Data updated with 2 changes
+[2025-07-04T17:29:29.584Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T17:29:29.585Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T17:29:29.585Z] ⏰ Next run scheduled in 10 minutes (at 12:39:47 AM)
+[2025-07-04T17:39:47.705Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T17:39:47.707Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T17:39:47.706Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:39:48.582Z] 🎯 Successfully extracted lottery data for 2025-07-04T17:39:48.582Z
+[2025-07-04T17:39:48.583Z] 🆕 Added 1 new lottery records:
+[2025-07-04T17:39:48.584Z]    + 2025-07-04T17:39:48.582Z: First Prize 949246
+[2025-07-04T17:39:48.584Z] ❌ Removed 1 lottery records:
+[2025-07-04T17:39:48.585Z]    - 2025-07-04T17:29:29.580Z: 949246
+[2025-07-04T17:39:48.585Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T17:39:48.586Z] ✅ Data updated with 2 changes
+[2025-07-04T17:39:48.586Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T17:39:48.586Z] ⏰ Next run scheduled in 13 minutes (at 12:52:58 AM)
+[2025-07-04T17:52:58.465Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T17:52:58.472Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T17:52:58.466Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:52:58.827Z] 🎯 Successfully extracted lottery data for 2025-07-04T17:52:58.827Z
+[2025-07-04T17:52:58.830Z]    + 2025-07-04T17:52:58.827Z: First Prize 949246
+[2025-07-04T17:52:58.828Z] 🆕 Added 1 new lottery records:
+[2025-07-04T17:52:58.831Z] ❌ Removed 1 lottery records:
+[2025-07-04T17:52:58.832Z]    - 2025-07-04T17:39:48.582Z: 949246
+[2025-07-04T17:52:58.833Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T17:52:58.833Z] ✅ Data updated with 2 changes
+[2025-07-04T17:52:58.833Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T17:52:58.833Z] ⏰ Next run scheduled in 15 minutes (at 1:07:34 AM)
+[2025-07-04T18:07:34.286Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T18:07:34.287Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:07:34.289Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T18:07:34.810Z] 🎯 Successfully extracted lottery data for 2025-07-04T18:07:34.810Z
+[2025-07-04T18:07:34.811Z] 🆕 Added 1 new lottery records:
+[2025-07-04T18:07:34.812Z]    + 2025-07-04T18:07:34.810Z: First Prize 949246
+[2025-07-04T18:07:34.812Z] ❌ Removed 1 lottery records:
+[2025-07-04T18:07:34.813Z]    - 2025-07-04T17:52:58.827Z: 949246
+[2025-07-04T18:07:34.814Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T18:07:34.814Z] ✅ Data updated with 2 changes
+[2025-07-04T18:07:34.814Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T18:07:34.815Z] ⏰ Next run scheduled in 14 minutes (at 1:22:02 AM)
+[2025-07-04T18:22:02.046Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T18:22:02.046Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:22:02.047Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T18:22:02.397Z] 🎯 Successfully extracted lottery data for 2025-07-04T18:22:02.397Z
+[2025-07-04T18:22:02.398Z] 🆕 Added 1 new lottery records:
+[2025-07-04T18:22:02.399Z]    + 2025-07-04T18:22:02.397Z: First Prize 949246
+[2025-07-04T18:22:02.400Z] ❌ Removed 1 lottery records:
+[2025-07-04T18:22:02.400Z]    - 2025-07-04T18:07:34.810Z: 949246
+[2025-07-04T18:22:02.402Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T18:22:02.402Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T18:22:02.402Z] ✅ Data updated with 2 changes
+[2025-07-04T18:22:02.403Z] ⏰ Next run scheduled in 12 minutes (at 1:33:37 AM)
+[2025-07-04T18:33:37.675Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T18:33:37.676Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:33:37.679Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T18:33:38.333Z] 🎯 Successfully extracted lottery data for 2025-07-04T18:33:38.333Z
+[2025-07-04T18:33:38.334Z] 🆕 Added 1 new lottery records:
+[2025-07-04T18:33:38.335Z]    + 2025-07-04T18:33:38.333Z: First Prize 949246
+[2025-07-04T18:33:38.336Z] ❌ Removed 1 lottery records:
+[2025-07-04T18:33:38.336Z]    - 2025-07-04T18:22:02.397Z: 949246
+[2025-07-04T18:33:38.338Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T18:33:38.339Z] ✅ Data updated with 2 changes
+[2025-07-04T18:33:38.339Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T18:33:38.339Z] ⏰ Next run scheduled in 14 minutes (at 1:47:38 AM)
+[2025-07-04T18:47:38.103Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T18:47:38.104Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:47:38.107Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T18:47:38.843Z] 🎯 Successfully extracted lottery data for 2025-07-04T18:47:38.843Z
+[2025-07-04T18:47:38.844Z] 🆕 Added 1 new lottery records:
+[2025-07-04T18:47:38.845Z]    + 2025-07-04T18:47:38.843Z: First Prize 949246
+[2025-07-04T18:47:38.845Z] ❌ Removed 1 lottery records:
+[2025-07-04T18:47:38.845Z]    - 2025-07-04T18:33:38.333Z: 949246
+[2025-07-04T18:47:38.846Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T18:47:38.846Z] ✅ Data updated with 2 changes
+[2025-07-04T18:47:38.846Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T18:47:38.846Z] ⏰ Next run scheduled in 14 minutes (at 2:01:41 AM)
+[2025-07-04T19:01:41.178Z] 🔄 Extraction attempt 1/3
+[2025-07-04T19:01:41.178Z] 🚀 Starting lottery checking cycle...
+[2025-07-04T19:01:41.182Z] 🌐 Fetching latest lottery data for 05072568...
+[2025-07-04T19:01:41.538Z] 🎯 Successfully extracted lottery data for 2025-07-04T19:01:41.538Z
+[2025-07-04T19:01:41.539Z] 🆕 Added 1 new lottery records:
+[2025-07-04T19:01:41.541Z] ❌ Removed 1 lottery records:
+[2025-07-04T19:01:41.541Z]    - 2025-07-04T18:47:38.843Z: 949246
+[2025-07-04T19:01:41.541Z]    + 2025-07-04T19:01:41.538Z: First Prize 949246
+[2025-07-04T19:01:41.543Z] 💾 Saved 1 records to D:\Nodejs\cheerio-test\latest_lottery_record.json
+[2025-07-04T19:01:41.543Z] ✅ Data updated with 2 changes
+[2025-07-04T19:01:41.543Z] ✅ Lottery checking cycle completed successfully
+[2025-07-04T19:01:41.544Z] ⏰ Next run scheduled in 13 minutes (at 2:14:35 AM)

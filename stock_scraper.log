@@ -1,0 +1,167 @@
+[2025-07-04T15:25:32.860Z] [stock] 🌟 Starting stock data scraper scheduler...
+[2025-07-04T15:25:32.863Z] [stock] 🚀 Starting scraping cycle...
+[2025-07-04T15:25:32.863Z] [stock] ❌ Error loading existing data: Unexpected end of JSON input
+[2025-07-04T15:25:32.863Z] [stock] 🔄 Extraction attempt 1/3
+[2025-07-04T15:25:35.378Z] [stock] 📊 Extracted 20 total results
+[2025-07-04T15:25:35.379Z] [stock] 🆕 Added 20 new stocks:
+[2025-07-04T15:25:35.379Z] [stock]    + หุ้นนิเคอิเช้า: 820/30
+[2025-07-04T15:25:35.379Z] [stock]    + ฮั่งเส็งเช้า: 181/13
+[2025-07-04T15:25:35.379Z] [stock]    + หุ้นเกาหลี: 893/45
+[2025-07-04T15:25:35.379Z] [stock]    + หุ้นนิเคอิบ่าย: 088/98
+[2025-07-04T15:25:35.380Z] [stock]    + จีนบ่าย: 876/82
+[2025-07-04T15:25:35.380Z] [stock]    + ฮั่งเส็งบ่าย: 606/88
+[2025-07-04T15:25:35.380Z] [stock]    + สิงคโปร์: 362/95
+[2025-07-04T15:25:35.380Z] [stock]    + ไต้หวัน: 750/47
+[2025-07-04T15:25:35.380Z] [stock]    + จีนเช้า: 000/42
+[2025-07-04T15:25:35.380Z] [stock]    + เยอรมัน: xxx/xx
+[2025-07-04T15:25:35.380Z] [stock]    + อียิปต์: xxx/xx
+[2025-07-04T15:25:35.381Z] [stock]    + รัสเซีย: xxx/xx
+[2025-07-04T15:25:35.381Z] [stock]    + อินเดีย: 289/42
+[2025-07-04T15:25:35.380Z] [stock]    + อังกฤษ: xxx/xx
+[2025-07-04T15:25:35.381Z] [stock]    + ดาวน์โจน: xxx/xx
+[2025-07-04T15:25:35.381Z] [stock]    + ฮานอย: 315/19
+[2025-07-04T15:25:35.381Z] [stock]    + มาเลย์: xxx/xx
+[2025-07-04T15:25:35.381Z] [stock]    + ฮานอยพิเศษ: 733/42
+[2025-07-04T15:25:35.381Z] [stock]    + ฮานอย VIP: xxx/xx
+[2025-07-04T15:25:35.381Z] [stock]    + ลาว: 957/68
+[2025-07-04T15:25:35.383Z] [stock] 💾 Saved 20 records to D:\Nodejs\cheerio-test\stock_data.json
+[2025-07-04T15:25:35.383Z] [stock] ✅ Data updated with 20 changes
+[2025-07-04T15:25:35.383Z] [stock] ✅ Scraping cycle completed successfully
+[2025-07-04T15:25:35.383Z] [stock] ⏰ Next run scheduled in 14 minutes (at 10:40:03 PM)
+[2025-07-04T15:25:35.383Z] [stock] ✅ Scheduler started successfully
+[2025-07-04T15:33:46.552Z] 🌟 Starting stock data scraper scheduler...
+[2025-07-04T15:33:46.555Z] 📂 Loaded 20 existing records
+[2025-07-04T15:33:46.555Z] 🚀 Starting scraping cycle...
+[2025-07-04T15:33:46.555Z] 🔄 Extraction attempt 1/3
+[2025-07-04T15:33:51.707Z] 📊 Extracted 20 total results
+[2025-07-04T15:33:51.708Z] 📊 No changes detected, data unchanged
+[2025-07-04T15:33:51.708Z] ✅ Scraping cycle completed successfully
+[2025-07-04T15:33:51.708Z] ⏰ Next run scheduled in 13 minutes (at 10:47:09 PM)
+[2025-07-04T15:33:51.708Z] ✅ Scheduler started successfully
+[2025-07-04T15:47:09.321Z] 🚀 Starting scraping cycle...
+[2025-07-04T15:47:09.322Z] 🔄 Extraction attempt 1/3
+[2025-07-04T15:47:11.912Z] 📊 Extracted 20 total results
+[2025-07-04T15:47:11.912Z] 📊 No changes detected, data unchanged
+[2025-07-04T15:47:11.913Z] ✅ Scraping cycle completed successfully
+[2025-07-04T15:47:11.913Z] ⏰ Next run scheduled in 11 minutes (at 10:58:35 PM)
+[2025-07-04T15:58:35.627Z] 🚀 Starting scraping cycle...
+[2025-07-04T15:58:35.628Z] 🔄 Extraction attempt 1/3
+[2025-07-04T15:58:38.741Z] 📊 Extracted 20 total results
+[2025-07-04T15:58:38.743Z]    ~ อังกฤษ: xxx/xx → 291/29
+[2025-07-04T15:58:38.741Z] 🔄 Updated 1 stocks:
+[2025-07-04T15:58:38.745Z] 💾 Saved 20 records to D:\Nodejs\cheerio-test\stock_data.json
+[2025-07-04T15:58:38.745Z] ✅ Data updated with 1 changes
+[2025-07-04T15:58:38.745Z] ✅ Scraping cycle completed successfully
+[2025-07-04T15:58:38.745Z] ⏰ Next run scheduled in 14 minutes (at 11:12:28 PM)
+[2025-07-04T16:12:28.455Z] 🚀 Starting scraping cycle...
+[2025-07-04T16:12:28.456Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:12:31.566Z] 📊 Extracted 20 total results
+[2025-07-04T16:12:31.567Z] 🔄 Updated 2 stocks:
+[2025-07-04T16:12:31.568Z]    ~ เยอรมัน: xxx/xx → 745/68
+[2025-07-04T16:12:31.568Z]    ~ รัสเซีย: xxx/xx → 981/68
+[2025-07-04T16:12:31.569Z] 💾 Saved 20 records to D:\Nodejs\cheerio-test\stock_data.json
+[2025-07-04T16:12:31.569Z] ✅ Data updated with 2 changes
+[2025-07-04T16:12:31.570Z] ✅ Scraping cycle completed successfully
+[2025-07-04T16:12:31.570Z] ⏰ Next run scheduled in 11 minutes (at 11:23:18 PM)
+[2025-07-04T16:23:18.963Z] 🚀 Starting scraping cycle...
+[2025-07-04T16:23:18.964Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:23:22.215Z] 📊 Extracted 20 total results
+[2025-07-04T16:23:22.216Z] 📊 No changes detected, data unchanged
+[2025-07-04T16:23:22.217Z] ✅ Scraping cycle completed successfully
+[2025-07-04T16:23:22.218Z] ⏰ Next run scheduled in 11 minutes (at 11:34:52 PM)
+[2025-07-04T16:34:52.074Z] 🚀 Starting scraping cycle...
+[2025-07-04T16:34:52.075Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:34:54.619Z] 📊 Extracted 20 total results
+[2025-07-04T16:34:54.619Z] 📊 No changes detected, data unchanged
+[2025-07-04T16:34:54.620Z] ✅ Scraping cycle completed successfully
+[2025-07-04T16:34:54.620Z] ⏰ Next run scheduled in 14 minutes (at 11:49:09 PM)
+[2025-07-04T16:49:09.309Z] 🚀 Starting scraping cycle...
+[2025-07-04T16:49:09.310Z] 🔄 Extraction attempt 1/3
+[2025-07-04T16:49:15.678Z] 📊 Extracted 20 total results
+[2025-07-04T16:49:15.680Z] ⏰ Next run scheduled in 12 minutes (at 12:01:45 AM)
+[2025-07-04T16:49:15.679Z] 📊 No changes detected, data unchanged
+[2025-07-04T16:49:15.679Z] ✅ Scraping cycle completed successfully
+[2025-07-04T17:01:45.617Z] 🚀 Starting scraping cycle...
+[2025-07-04T17:01:45.619Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:01:48.293Z] 📊 Extracted 20 total results
+[2025-07-04T17:01:48.294Z] 🔄 Updated 16 stocks:
+[2025-07-04T17:01:48.295Z]    ~ หุ้นเกาหลี: 893/45 → xxx/xx
+[2025-07-04T17:01:48.295Z]    ~ หุ้นนิเคอิเช้า: 820/30 → xxx/xx
+[2025-07-04T17:01:48.295Z]    ~ หุ้นนิเคอิบ่าย: 088/98 → xxx/xx
+[2025-07-04T17:01:48.295Z]    ~ ฮั่งเส็งเช้า: 181/13 → xxx/xx
+[2025-07-04T17:01:48.295Z]    ~ ฮั่งเส็งบ่าย: 606/88 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ จีนเช้า: 000/42 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ จีนบ่าย: 876/82 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ ไต้หวัน: 750/47 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ สิงคโปร์: 362/95 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ เยอรมัน: 745/68 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ อังกฤษ: 291/29 → xxx/xx
+[2025-07-04T17:01:48.296Z]    ~ รัสเซีย: 981/68 → xxx/xx
+[2025-07-04T17:01:48.297Z]    ~ อินเดีย: 289/42 → xxx/xx
+[2025-07-04T17:01:48.297Z]    ~ ลาว: 957/68 → xxx/xx
+[2025-07-04T17:01:48.297Z]    ~ ฮานอย: 315/19 → xxx/xx
+[2025-07-04T17:01:48.297Z]    ~ ฮานอยพิเศษ: 733/42 → xxx/xx
+[2025-07-04T17:01:48.298Z] 💾 Saved 20 records to D:\Nodejs\cheerio-test\stock_data.json
+[2025-07-04T17:01:48.299Z] ✅ Data updated with 16 changes
+[2025-07-04T17:01:48.299Z] ✅ Scraping cycle completed successfully
+[2025-07-04T17:01:48.299Z] ⏰ Next run scheduled in 12 minutes (at 12:13:26 AM)
+[2025-07-04T17:13:26.772Z] 🚀 Starting scraping cycle...
+[2025-07-04T17:13:26.773Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:13:29.364Z] 📊 Extracted 20 total results
+[2025-07-04T17:13:29.364Z] 📊 No changes detected, data unchanged
+[2025-07-04T17:13:29.365Z] ✅ Scraping cycle completed successfully
+[2025-07-04T17:13:29.365Z] ⏰ Next run scheduled in 13 minutes (at 12:26:31 AM)
+[2025-07-04T17:26:31.314Z] 🚀 Starting scraping cycle...
+[2025-07-04T17:26:31.315Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:26:33.815Z] 📊 Extracted 20 total results
+[2025-07-04T17:26:33.816Z] 📊 No changes detected, data unchanged
+[2025-07-04T17:26:33.817Z] ✅ Scraping cycle completed successfully
+[2025-07-04T17:26:33.818Z] ⏰ Next run scheduled in 10 minutes (at 12:36:59 AM)
+[2025-07-04T17:36:59.621Z] 🚀 Starting scraping cycle...
+[2025-07-04T17:36:59.623Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:37:03.391Z] 📊 Extracted 20 total results
+[2025-07-04T17:37:03.391Z] 📊 No changes detected, data unchanged
+[2025-07-04T17:37:03.392Z] ✅ Scraping cycle completed successfully
+[2025-07-04T17:37:03.392Z] ⏰ Next run scheduled in 10 minutes (at 12:47:19 AM)
+[2025-07-04T17:47:19.372Z] 🚀 Starting scraping cycle...
+[2025-07-04T17:47:19.373Z] 🔄 Extraction attempt 1/3
+[2025-07-04T17:47:22.909Z] 📊 Extracted 20 total results
+[2025-07-04T17:47:22.910Z] 📊 No changes detected, data unchanged
+[2025-07-04T17:47:22.911Z] ✅ Scraping cycle completed successfully
+[2025-07-04T17:47:22.912Z] ⏰ Next run scheduled in 14 minutes (at 1:01:17 AM)
+[2025-07-04T18:01:17.331Z] 🚀 Starting scraping cycle...
+[2025-07-04T18:01:17.331Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:01:20.951Z] 📊 Extracted 20 total results
+[2025-07-04T18:01:20.952Z] 📊 No changes detected, data unchanged
+[2025-07-04T18:01:20.952Z] ⏰ Next run scheduled in 12 minutes (at 1:13:32 AM)
+[2025-07-04T18:01:20.952Z] ✅ Scraping cycle completed successfully
+[2025-07-04T18:13:32.411Z] 🚀 Starting scraping cycle...
+[2025-07-04T18:13:32.412Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:13:35.092Z] 📊 Extracted 20 total results
+[2025-07-04T18:13:35.093Z] 📊 No changes detected, data unchanged
+[2025-07-04T18:13:35.094Z] ✅ Scraping cycle completed successfully
+[2025-07-04T18:13:35.094Z] ⏰ Next run scheduled in 12 minutes (at 1:25:18 AM)
+[2025-07-04T18:25:18.134Z] 🚀 Starting scraping cycle...
+[2025-07-04T18:25:18.134Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:25:20.852Z] 📊 Extracted 20 total results
+[2025-07-04T18:25:20.852Z] 📊 No changes detected, data unchanged
+[2025-07-04T18:25:20.853Z] ✅ Scraping cycle completed successfully
+[2025-07-04T18:25:20.853Z] ⏰ Next run scheduled in 12 minutes (at 1:37:14 AM)
+[2025-07-04T18:37:14.668Z] 🚀 Starting scraping cycle...
+[2025-07-04T18:37:14.669Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:37:17.322Z] 📊 Extracted 20 total results
+[2025-07-04T18:37:17.323Z] 📊 No changes detected, data unchanged
+[2025-07-04T18:37:17.324Z] ✅ Scraping cycle completed successfully
+[2025-07-04T18:37:17.324Z] ⏰ Next run scheduled in 11 minutes (at 1:48:16 AM)
+[2025-07-04T18:48:16.469Z] 🚀 Starting scraping cycle...
+[2025-07-04T18:48:16.469Z] 🔄 Extraction attempt 1/3
+[2025-07-04T18:48:19.450Z] 📊 Extracted 20 total results
+[2025-07-04T18:48:19.450Z] 📊 No changes detected, data unchanged
+[2025-07-04T18:48:19.451Z] ✅ Scraping cycle completed successfully
+[2025-07-04T18:48:19.451Z] ⏰ Next run scheduled in 14 minutes (at 2:02:03 AM)
+[2025-07-04T19:02:03.523Z] 🚀 Starting scraping cycle...
+[2025-07-04T19:02:03.524Z] 🔄 Extraction attempt 1/3
+[2025-07-04T19:02:06.919Z] 📊 Extracted 20 total results
+[2025-07-04T19:02:06.919Z] 📊 No changes detected, data unchanged
+[2025-07-04T19:02:06.920Z] ⏰ Next run scheduled in 10 minutes (at 2:12:19 AM)
+[2025-07-04T19:02:06.920Z] ✅ Scraping cycle completed successfully

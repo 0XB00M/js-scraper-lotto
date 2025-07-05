@@ -1,0 +1,146 @@
+{
+  "lastUpdated": "2025-07-04T17:01:48.297Z",
+  "recordCount": 20,
+  "data": [
+    {
+      "countryCode": "kr",
+      "stockName": "หุ้นเกาหลี",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "jp",
+      "stockName": "หุ้นนิเคอิเช้า",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "jp",
+      "stockName": "หุ้นนิเคอิบ่าย",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "hk",
+      "stockName": "ฮั่งเส็งเช้า",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "hk",
+      "stockName": "ฮั่งเส็งบ่าย",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "cn",
+      "stockName": "จีนเช้า",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "cn",
+      "stockName": "จีนบ่าย",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "tw",
+      "stockName": "ไต้หวัน",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "sg",
+      "stockName": "สิงคโปร์",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "eg",
+      "stockName": "อียิปต์",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "de",
+      "stockName": "เยอรมัน",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "gb",
+      "stockName": "อังกฤษ",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "ru",
+      "stockName": "รัสเซีย",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "in",
+      "stockName": "อินเดีย",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "us",
+      "stockName": "ดาวน์โจน",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "my",
+      "stockName": "มาเลย์",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "la",
+      "stockName": "ลาว",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "vn",
+      "stockName": "ฮานอย",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "vn",
+      "stockName": "ฮานอยพิเศษ",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    },
+    {
+      "countryCode": "vn",
+      "stockName": "ฮานอย VIP",
+      "threeDigits": "xxx",
+      "twoDigits": "xx",
+      "lastUpdated": "2025-07-04T17:01:48.030Z"
+    }
+  ]
+}
